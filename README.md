@@ -1,5 +1,3 @@
 - 👋 Salve meu nome é Gabriel
 - 👀 Gosto de jogos e programação
 - 🌱 Estou aprendendo Python e C
-- 😄 Pronomes: ele/dele
-
